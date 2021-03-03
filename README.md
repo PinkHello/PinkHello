@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### PinkHello ✈️ ![](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg)
+### PinkHello ![幸福的小✈️](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pinkhello&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=radical)
