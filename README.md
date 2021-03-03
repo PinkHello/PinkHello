@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 ### PinkHello 快乐的程序🐶 ![](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pinkhello&repo=github-readme-stats)]()
-![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=vue&hide_border=true&line_height=25)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
