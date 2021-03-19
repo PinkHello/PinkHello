@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 | :---- | :---- | :---- | :---- |
 | 👯 构建Go完整第三方库服务化脚手架 | done | [go-starter](https://github.com/PinkHello/go-starter) | ut & lint |
 | 💵 使用Go服务脚手架完成一个小系统 | done | [房产CRM信息系统](http://crm.pinkhello.me) test/123456  | - |  
-| 🐳 K8S原理 | running | 博客成档 | - |  
+| 🐳 K8S原理 | running | [K8S博客成档](https://pinkhello.me/categories/k8s/) | - |  
 | 😄 MySQL实现原理解析 | running | 博客成档 | - |  
 | 🏫 数据结构与算法之美 | prepare | 博客成档 | - |  
 | 🚀 RocketMQ客户端代码阅读(Java/Go) | prepare | 博客成档 | - |  
