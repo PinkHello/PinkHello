@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 2021 OKR 进度
 | Action | 目标 | 进度 |
 |  ---- | ---- | ---- |
-| 👯 构建GO完整第三方库服务化脚手架 | [go-starter](https://github.com/PinkHello/go-starter) | done |
+| 👯 构建Go完整第三方库服务化脚手架 | [go-starter](https://github.com/PinkHello/go-starter) 未写test | done |
 | 💵 使用Go服务脚手架完成一个小系统 | [房产CRM信息系统](http://crm.pinkhello.me) test/123456 | done |
 | 🐳 K8S原理 | 博客成档 | running |
 | 😄 MySQL实现原理解析  | 博客成档 | running |
