@@ -13,12 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## PinkHello ![](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg)
-【 快乐的程序🐶  】  
+## PinkHello ![](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg)  
 ![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=vue&hide_border=true&line_height=20&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&layout=compact&hide_border=true&hide=html,vim&count_private=true)
 
-2021 OKR 进度
+## 2021 OKR 进度
 | Action | 目标 | 进度 |
 |  ----  | ----  | ----  |
 | 🚀 K8S原理 | 博客成档 | running |
