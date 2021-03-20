@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=vue&hide_border=true&line_height=20&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&layout=compact&hide_border=true&hide=html,vim&count_private=true)
 ## 2021 OKR 进度
-| 动作 | 目标 | 进度 | 缺陷 |
+| 动作 | 进度 | 目标 | 缺陷 |
 | :---- | :---- | :---- | :---- |
 | 👯 构建Go完整第三方库服务化脚手架 | done | [go-starter](https://github.com/PinkHello/go-starter) | ut |
 | 💵 Go服务脚手架单独完成前后端系统 | done | [房产CRM信息系统](http://crm.pinkhello.me) test/123456  | - |  
