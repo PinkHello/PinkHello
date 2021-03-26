@@ -2,7 +2,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=vue&hide_border=true&line_height=20&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&layout=compact&hide_border=true&hide=html,vim&count_private=true)
 <details>
- <summary><b>更多</b></summary>
+ <summary><b>More...</b></summary>
 
 ```go
 PinkHello := &Info {
@@ -51,7 +51,7 @@ Others
 ![Centos](https://img.shields.io/badge/-Centos-262577?style=flat-square&logo=Centos)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-## 🚀 2021 OKR 进度
+## 🚀 2021 OKR
 | 动作 | 进度 | 目标 | 缺陷 |
 | :---- | :---- | :---- | :---- |
 | 👯 Go服务开发脚手架 | done | [go-starter](https://github.com/PinkHello/go-starter) | ut |
