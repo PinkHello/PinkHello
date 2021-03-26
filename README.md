@@ -18,7 +18,7 @@ PinkHello := &Info {
 
 ## ⚡ Technologies
 
-Lanuage   
+Language   
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java) 
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go) 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
