@@ -17,16 +17,41 @@ PinkHello := &Info {
 </details>
 
 ## ⚡ Technologies
+
+Lanuage
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java) 
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go) 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
+Framework
+
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat-square&logo=Vue.js)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=SpringBoot)
+![SpringCloud](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=SpringCloud)
+![Echo](https://img.shields.io/badge/-Echo-black?style=flat-square&logo=Echo)
+![Gin](https://img.shields.io/badge/-Gin-black?style=flat-square&logo=Gin)
+![Grpc](https://img.shields.io/badge/-Grpc-black?style=flat-square&logo=Grpc)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
+
+Tools
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=Nginx)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
+![Pulsar](https://img.shields.io/badge/-Pulsar-black?style=flat-square&logo=Pulsar)
+![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Kafka)
+![Nsq](https://img.shields.io/badge/-Nsq-black?style=flat-square&logo=Nsq)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+Others
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+![Deepin](https://img.shields.io/badge/-Deepin-007CFF?style=flat-square&logo=deepin)
+![Centos](https://img.shields.io/badge/-Centos-262577?style=flat-square&logo=Centos)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
+
    
 ## 2021 OKR 进度
 | 动作 | 进度 | 目标 | 缺陷 |
