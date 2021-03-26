@@ -18,8 +18,7 @@ PinkHello := &Info {
 
 ## ⚡ Technologies
 
-Lanuage
-
+Lanuage   
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java) 
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go) 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -27,7 +26,7 @@ Lanuage
 Framework   
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat-square&logo=Vue.js)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=SpringBoot)
-![SpringCloud](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=SpringCloud)
+![SpringCloud](https://img.shields.io/badge/-SpringCloud-black?style=flat-square&logo=SpringCloud)
 ![Echo](https://img.shields.io/badge/-Echo-black?style=flat-square&logo=Echo)
 ![Gin](https://img.shields.io/badge/-Gin-black?style=flat-square&logo=Gin)
 ![Grpc](https://img.shields.io/badge/-Grpc-black?style=flat-square&logo=Grpc)
