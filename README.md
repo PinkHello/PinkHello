@@ -1,5 +1,9 @@
 ## ⚡ PinkHello ![views](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg)
 
+![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=vue&hide_border=true&line_height=20&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&layout=compact&hide_border=true&hide=html,vim&count_private=true)
+<details>
+ <summary><b>More...</b></summary>  
 ```go
 PinkHello := &Info {
     Name: "PinkHello",
@@ -10,15 +14,14 @@ PinkHello := &Info {
     Location: "Shanghai China"
 }
 ```
+</details>
+
 ## ⚡ Technologies
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java) 
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go) 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat-square&logo=Vue.js)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
-
-<details>
- <summary><b>More...</b></summary>  
    
 ## 2021 OKR 进度
 | 动作 | 进度 | 目标 | 缺陷 |
@@ -32,5 +35,3 @@ PinkHello := &Info {
 | 👀 借助飞桨完成大众点评星级计算逻辑分析 | prepare | 算法模型 | - |  
 | 🔭 研究一下民法典 | prepare | - | - |  
 | 🔍 阅读《设计心理学》 | prepare | - | - |  
-
-</details>
