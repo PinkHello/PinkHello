@@ -3,7 +3,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&layout=compact&hide_border=true&hide=html,vim&count_private=true)
 <details>
  <summary><b>更多</b></summary>
- 
+
 ```go
 PinkHello := &Info {
     Name: "PinkHello",
@@ -33,7 +33,6 @@ Framework
 ![Gin](https://img.shields.io/badge/-Gin-black?style=flat-square&logo=Gin)
 ![Grpc](https://img.shields.io/badge/-Grpc-black?style=flat-square&logo=Grpc)
 
-
 Tools   
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
@@ -52,8 +51,6 @@ Others
 ![Centos](https://img.shields.io/badge/-Centos-262577?style=flat-square&logo=Centos)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-
-   
 ## 🚀 2021 OKR 进度
 | 动作 | 进度 | 目标 | 缺陷 |
 | :---- | :---- | :---- | :---- |
