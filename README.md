@@ -13,9 +13,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## PinkHello ![](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg)  
+## ⚡ PinkHello ![views](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg)
+
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java) 
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go) 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Vue](https://img.shields.io/badge/-Vue-000000?style=flat-square&logo=Vue.js)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 ![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=vue&hide_border=true&line_height=20&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&layout=compact&hide_border=true&hide=html,vim&count_private=true)
+
+<details>
+ <summary><b>More...</b></summary>  
+    
+## 😎 A little more about me...  
+
+```go
+AlpacaBi := &Info {
+    Name: "Alpaca Bi",
+    Age: 26,
+    Occupation: "Web Full Stack Developer",
+    Clergy: "Flying Spaghetti Monsterism Minister",
+    Email: "biguokang@outlook.com",
+    Wechat: "workbiguokang",
+    Website: "https://alpaca.run",
+    Location: "Guangzhou China"
+}
+```
+
+## ⚡ Technologies
+
+
 ## 2021 OKR 进度
 | 动作 | 进度 | 目标 | 缺陷 |
 | :---- | :---- | :---- | :---- |
@@ -28,3 +56,5 @@ Here are some ideas to get you started:
 | 👀 借助飞桨完成大众点评星级计算逻辑分析 | prepare | 算法模型 | - |  
 | 🔭 研究一下民法典 | prepare | - | - |  
 | 🔍 阅读《设计心理学》 | prepare | - | - |  
+
+</details>
