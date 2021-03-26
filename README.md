@@ -19,12 +19,12 @@ PinkHello := &Info {
 ## ⚡ Technologies
 
 Lanuage
+
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java) 
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go) 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-Framework
-
+Framework   
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat-square&logo=Vue.js)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=SpringBoot)
 ![SpringCloud](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=SpringCloud)
@@ -33,7 +33,7 @@ Framework
 ![Grpc](https://img.shields.io/badge/-Grpc-black?style=flat-square&logo=Grpc)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 
-Tools
+Tools   
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -45,7 +45,7 @@ Tools
 ![Nsq](https://img.shields.io/badge/-Nsq-black?style=flat-square&logo=Nsq)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-Others
+Others   
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![Deepin](https://img.shields.io/badge/-Deepin-007CFF?style=flat-square&logo=deepin)
 ![Centos](https://img.shields.io/badge/-Centos-262577?style=flat-square&logo=Centos)
