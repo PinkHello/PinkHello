@@ -20,7 +20,7 @@ PinkHello := &Info {
 
 Language   
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java) 
-![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Golang) 
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go) 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
 
