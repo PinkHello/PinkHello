@@ -27,7 +27,7 @@ Framework
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat-square&logo=Vue.js)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=SpringBoot)
 ![SpringCloud](https://img.shields.io/badge/-SpringCloud-black?style=flat-square&logo=SpringCloud)
-![Dubbbo](https://img.shields.io/badge/-Dubbbo-black?style=flat-square&logo=Dubbbo)
+![Dubbo](https://img.shields.io/badge/-Dubbo-black?style=flat-square&logo=Dubbo)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 ![Echo](https://img.shields.io/badge/-Echo-black?style=flat-square&logo=Echo)
 ![Gin](https://img.shields.io/badge/-Gin-black?style=flat-square&logo=Gin)
