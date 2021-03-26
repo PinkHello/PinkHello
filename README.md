@@ -1,10 +1,10 @@
-## ⚡ PinkHello ![views](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg)
+## 👷 PinkHello ![views](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=vue&hide_border=true&line_height=20&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&layout=compact&hide_border=true&hide=html,vim&count_private=true)
 
 <details>
- <summary><b>More...</b></summary>  
+ <summary><b>更多</b></summary>  
  
 ```go
 PinkHello := &Info {
@@ -25,6 +25,10 @@ PinkHello := &Info {
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat-square&logo=Vue.js)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=Nginx)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
    
 ## 2021 OKR 进度
 | 动作 | 进度 | 目标 | 缺陷 |
