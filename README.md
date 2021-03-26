@@ -1,18 +1,15 @@
-<!--
-**PinkHello/PinkHello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ PinkHello ![views](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+```go
+PinkHello := &Info {
+    Name: "PinkHello",
+    Occupation: "Full Stack Developer",
+    Email: "lee123lee123@163.com",
+    Wechat: "chess_1",
+    Website: "https://pinkhello.me",
+    Location: "Shanghai China"
+}
+```
 ## ⚡ PinkHello ![views](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg)
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java) 
@@ -20,26 +17,12 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat-square&logo=Vue.js)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+
 ![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=vue&hide_border=true&line_height=20&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&layout=compact&hide_border=true&hide=html,vim&count_private=true)
 
 <details>
  <summary><b>More...</b></summary>  
-    
-## 😎 A little more about me...  
-
-```go
-AlpacaBi := &Info {
-    Name: "Alpaca Bi",
-    Age: 26,
-    Occupation: "Web Full Stack Developer",
-    Clergy: "Flying Spaghetti Monsterism Minister",
-    Email: "biguokang@outlook.com",
-    Wechat: "workbiguokang",
-    Website: "https://alpaca.run",
-    Location: "Guangzhou China"
-}
-```
 
 ## ⚡ Technologies
 
