@@ -20,8 +20,9 @@ PinkHello := &Info {
 
 Language   
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java) 
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go) 
+![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Golang) 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
 
 Framework   
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat-square&logo=Vue.js)
