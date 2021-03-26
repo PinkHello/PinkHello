@@ -10,23 +10,16 @@ PinkHello := &Info {
     Location: "Shanghai China"
 }
 ```
-## ⚡ PinkHello ![views](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg)
-
+## ⚡ Technologies
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java) 
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go) 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat-square&logo=Vue.js)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 
-![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=vue&hide_border=true&line_height=20&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&layout=compact&hide_border=true&hide=html,vim&count_private=true)
-
 <details>
  <summary><b>More...</b></summary>  
-
-## ⚡ Technologies
-
-
+   
 ## 2021 OKR 进度
 | 动作 | 进度 | 目标 | 缺陷 |
 | :---- | :---- | :---- | :---- |
