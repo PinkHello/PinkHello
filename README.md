@@ -1,20 +1,16 @@
 ## 👷 PinkHello ![views](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg)
 ![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=vue&hide_border=true&line_height=20&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&layout=compact&hide_border=true&hide=html,vim&count_private=true)
-<details>
- <summary><b>More...</b></summary>
 
 ```go
 PinkHello := &Info {
     Name: "PinkHello",
-    Occupation: "Full Stack Developer",
     Email: "lee123lee123@163.com",
     Wechat: "chess_1",
     Website: "https://pinkhello.me",
     Location: "Shanghai China"
 }
 ```
-</details>
 
 ## ⚡ Technologies
 Language   
