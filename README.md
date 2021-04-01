@@ -45,7 +45,7 @@ Tools
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=RabbitMQ)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-Others
+Others  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
