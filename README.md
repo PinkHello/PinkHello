@@ -17,10 +17,9 @@ PinkHello := &Info {
 </details>
 
 ## ⚡ Technologies
-
 Language   
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java) 
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go) 
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
 
@@ -40,14 +39,15 @@ Tools
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=Nginx)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
 ![Pulsar](https://img.shields.io/badge/-Pulsar-black?style=flat-square&logo=Pulsar)
 ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Kafka)
 ![Nsq](https://img.shields.io/badge/-Nsq-black?style=flat-square&logo=Nsq)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=RabbitMQ)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-Others   
+Others
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![Deepin](https://img.shields.io/badge/-Deepin-007CFF?style=flat-square&logo=deepin)
 ![Centos](https://img.shields.io/badge/-Centos-262577?style=flat-square&logo=Centos)
