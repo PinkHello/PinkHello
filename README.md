@@ -44,6 +44,7 @@ Tools
 ![Pulsar](https://img.shields.io/badge/-Pulsar-black?style=flat-square&logo=Pulsar)
 ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Kafka)
 ![Nsq](https://img.shields.io/badge/-Nsq-black?style=flat-square&logo=Nsq)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=RabbitMQ)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 Others   
