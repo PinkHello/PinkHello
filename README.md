@@ -48,13 +48,13 @@ Others
 ![Centos](https://img.shields.io/badge/-Centos-262577?style=flat-square&logo=Centos)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-## 🚀 2021 OKR
+## 🚀 2021 OKR 进度
 | 动作 | 进度 | 目标 | 缺陷 |
 | :---- | :---- | :---- | :---- |
-| 👯 Go服务开发脚手架 | done | [go-starter](https://github.com/PinkHello/go-starter) | ut框架层面接入有缺陷,未完善 |
+| 👯 Go服务开发脚手架 | done | [go-starter](https://github.com/PinkHello/go-starter) | ut |
 | 💵 Go服务开发脚手架开发一个简单前后端系统 | done | [房产CRM信息系统](http://121.4.242.26) test/123456  | - |  
 | 🐳 K8S原理 | running | [K8S博客成档](https://pinkhello.me/categories/k8s/) | - |  
-| 😄 MySQL实现原理解析 | running | 博客成档 | - |  
-| 🏫 数据结构与算法之美 | prepare | 博客成档 | - |  
-| 🚀 RocketMQ客户端代码阅读(Java/Go) | prepare | 博客成档 | - |  
-| 🔍 阅读《设计心理学》 | prepare | - | - |  
+| 🚀 RocketMQ 源代码阅读(Java) | running | 博客成档 | - | 
+| 🚀 RocketMQ 客户端代码阅读(Compare Go/Java) | running | 博客成档 | - | 
+| 😄 MySQL实现原理解析 | prepare | 博客成档 | - |
+| 🏫 数据结构与算法之美 | prepare | 博客成档 | - |
