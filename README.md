@@ -1,11 +1,10 @@
-## 👷 pinkhello ![views](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg)
-![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=vue&hide_border=true&line_height=20&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&layout=compact&hide_border=true&hide=html,vim&count_private=true)
-
-# About Me
+## 📧 👷 pinkhello ![views](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg)
  - Email: lee123lee123@163.com
  - 微信: chess_1
  - 博客: https://pinkhello.me
+
+![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=vue&hide_border=true&line_height=20&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&layout=compact&hide_border=true&hide=html,vim&count_private=true)
 
 ## ⚡ Technologies
 Language   
@@ -53,5 +52,3 @@ Others
 | 🚀 RocketMQ 客户端代码阅读(Compare Go/Java) | running | [RocketMQ博客成档](https://pinkhello.me/categories/rocketmq/) | - | - |
 | 😄 MySQL实现原理解析 | prepare | 博客成档 | - | - |
 | 🏫 数据结构与算法之美 | prepare | 博客成档 | - | - |
-
-
