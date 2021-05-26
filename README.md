@@ -2,15 +2,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=vue&hide_border=true&line_height=20&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&layout=compact&hide_border=true&hide=html,vim&count_private=true)
 
-```go
-PinkHello := &Info {
-    Name: "PinkHello",
-    Email: "lee123lee123@163.com",
-    Wechat: "chess_1",
-    Website: "https://pinkhello.me",
-    Location: "Shanghai China"
-}
-```
+# About Me
+ - Email: lee123lee123@163.com
+ - 微信: chess_1
+ - 博客: https://pinkhello.me
 
 ## ⚡ Technologies
 Language   
