@@ -1,17 +1,15 @@
-## 📧 👷 pinkhello ![views](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg)
- - Email: lee123lee123@163.com
- - 微信: chess_1
- - 博客: https://pinkhello.me
+Hi there 👷 I'm pinkhello  ![views](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg)
+- 💻 I'm a BackEnd Developer
+- 📖 Mainly ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java) ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
+- 🍎 Also Code in ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript) ![Kotlin](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin)
+- 📮 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-pinkhello-black?style=plastic&logo=Gmail&logoColor=white&link=mailto:lee123lee123@163.com)](mailto:lee123lee123@163.com)
+[![Gmail Badge](https://img.shields.io/badge/-pinkhello-black?style=plastic&logo=blog&logoColor=blue&link=https://pinkhello.me)](https://pinkhello.me). Wechat: chess_1
+
 
 ![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=vue&hide_border=true&line_height=20&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&layout=compact&hide_border=true&hide=html,vim&count_private=true)
 
-## ⚡ Technologies
-Language   
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
+⚡ Technologies
 
 Framework   
 ![Vue](https://img.shields.io/badge/-Vue.js-000000?style=flat-square&logo=vue-dot-js)
@@ -47,7 +45,7 @@ Others
 ![Centos](https://img.shields.io/badge/-Centos-262577?style=flat-square&logo=Centos)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-## 🚀 2021 OKR 进度
+🚀 2021 OKR 进度
 | 动作 | 进度 | 目标 | 缺陷 | 其他 |
 | :---- | :---- | :---- | :---- | :---- |
 | 👯 Go服务开发脚手架 | done | [go-starter](https://github.com/pinkhello/go-starter) | ut | - |
